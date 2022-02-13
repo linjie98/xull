@@ -11,6 +11,7 @@ echo $name
 #readonly name
 #name="99"
 
+
 #######参数传递##########
 echo "看看当前传的文件名是：$0";
 
